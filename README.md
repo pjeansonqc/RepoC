@@ -1,4 +1,4 @@
 # RepoB
 Repository B
-branch Main
+branch master
 
