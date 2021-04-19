@@ -1,5 +1,5 @@
 # RepoA
 Repository A
 
-branch main
+branch master
 
